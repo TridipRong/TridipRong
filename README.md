@@ -53,10 +53,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tridiprong&show_icons=true&locale=en&layout=compact" alt="tridiprong" /></p>
 <br>
   <br>
-<p>&nbsp;<img align="center" height="500px" width="350px" src="https://github-readme-stats.vercel.app/api?username=tridiprong&show_icons=true&locale=en" alt="tridiprong" /></p>
+<p>&nbsp;<img align="center"  width="350px" src="https://github-readme-stats.vercel.app/api?username=tridiprong&show_icons=true&locale=en" alt="tridiprong" /></p>
 <br>
   <br>
-<p>&nbsp;<img align="left" height="500px" width="350px"src="https://github-readme-streak-stats.herokuapp.com/?user=tridiprong&" alt="tridiprong" /></p>
+<p>&nbsp;<img align="left"  width="350px"src="https://github-readme-streak-stats.herokuapp.com/?user=tridiprong&" alt="tridiprong" /></p>
   <br>
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
