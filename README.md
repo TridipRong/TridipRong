@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TridipRong.TridipRong)
 
 </p>
-<div size='60px'> Hi! My name is Tridip Rong. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='60px'><h2> Hi! My name is Tridip Rong. Thank You for taking the time to view my GitHub Profile :smile:</h2> 
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
@@ -53,10 +53,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tridiprong&show_icons=true&locale=en&layout=compact" alt="tridiprong" /></p>
 <br>
   <br>
-<p>&nbsp;<img align="center" height="30px" src="https://github-readme-stats.vercel.app/api?username=tridiprong&show_icons=true&locale=en" alt="tridiprong" /></p>
+<p>&nbsp;<img align="center" height="500px" width="350px" src="https://github-readme-stats.vercel.app/api?username=tridiprong&show_icons=true&locale=en" alt="tridiprong" /></p>
 <br>
   <br>
-<p>&nbsp;<img align="left" height="30px" src="https://github-readme-streak-stats.herokuapp.com/?user=tridiprong&" alt="tridiprong" /></p>
+<p>&nbsp;<img align="left" height="500px" width="350px"src="https://github-readme-streak-stats.herokuapp.com/?user=tridiprong&" alt="tridiprong" /></p>
   <br>
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
