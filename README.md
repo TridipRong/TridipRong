@@ -13,7 +13,7 @@
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🔭 I Worked on [Clone Of FabBag Wesite](https://fabbag-clone-u2.netlify.app/)
 
@@ -48,18 +48,22 @@
 <br> -->
 
 
-<!-- <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
+<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=TridipRong&count_private=true&show_icons=true&theme=default" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TridipRong&theme=default" />
-</a> -->
+</a>  -->
+  <br>
+  <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tridiprong&show_icons=true&locale=en&layout=compact" alt="tridiprong" /></p>
-
+<br>
+  <br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tridiprong&show_icons=true&locale=en" alt="tridiprong" /></p>
-
+<br>
+  <br>
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tridiprong&" alt="tridiprong" /></p>
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
