@@ -41,20 +41,12 @@
 <a href = 'https://www.github.com/TridipRong'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-<!-- <h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
-</a>
-<br> -->
-
-
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-<p><img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tridiprong&show_icons=true&locale=en&layout=compact" alt="tridiprong" /></p>
-  &nbsp;
+<p><img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tridiprong&show_icons=true&locale=en&layout=compact" alt="tridiprong" /></p>&nbsp;
 <p>&nbsp;<img align="right"  width="300px" src="https://github-readme-stats.vercel.app/api?username=tridiprong&show_icons=true&locale=en" alt="tridiprong" /></p>
 &nbsp;
-<p>&nbsp;<img align="center"  width="250px"src="https://github-readme-streak-stats.herokuapp.com/?user=tridiprong&" alt="tridiprong" /></p>
+<p>&nbsp;<img align="center"  width="300px"src="https://github-readme-streak-stats.herokuapp.com/?user=tridiprong&" alt="tridiprong" /></p>
   <br>
 <h2> Some Programming Humor for you <img align ='left' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
