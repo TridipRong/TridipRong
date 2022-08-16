@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ER0QWbWP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8poooh7vsctzgstw6ent.gif" alt="cover" />
+<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
@@ -8,22 +8,18 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TridipRong.TridipRong)
 
 </p>
-<div size='20px'> Hi! My name is Tridip Rong. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='60px'> Hi! My name is Tridip Rong. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
-
-
-
-- 🌱 I’m currently learning SpringBoot & MySql 
-
 - 🔭 I Worked on [Clone Of FabBag Wesite](https://fabbag-clone-u2.netlify.app/)
 
 - 🤝 I Worked on [Clone of BangGood Website](https://fancy-starburst-42d040.netlify.app/)
 
+- 🌱 I’m currently learning SpringBoot & MySql 
 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
@@ -45,20 +41,29 @@
 <a href = 'https://www.github.com/TridipRong'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
+<!-- <h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
 </a>
-<br>
+<br> -->
 
 
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
+<!-- <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-![Metrics](https://metrics.lecoq.io/TridipRong?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=TridipRong&count_private=true&show_icons=true&theme=default" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TridipRong&theme=default" />
+</a> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tridiprong&show_icons=true&locale=en&layout=compact" alt="tridiprong" /></p>
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tridiprong&show_icons=true&locale=en" alt="tridiprong" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tridiprong&" alt="tridiprong" /></p>
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
 <br>
