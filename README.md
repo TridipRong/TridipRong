@@ -48,7 +48,7 @@
 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tridiprong&show_icons=true&locale=en&layout=compact" alt="tridiprong" /></p>
 <p><img align="right"  width="450" src="https://github-readme-stats.vercel.app/api?username=tridiprong&show_icons=true&locale=en" alt="tridiprong" /></p><br>
-
+[![Tridip's github activity graph](https://activity-graph.herokuapp.com/graph?username=tridiprong)](https://github.com/tridiprong/github-readme-activity-graph)
 <br>
   <br>
   &nbsp;
