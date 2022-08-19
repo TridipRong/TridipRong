@@ -13,7 +13,7 @@
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="60%" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🔭 I Worked on [Clone Of FabBag Wesite](https://fabbag-clone-u2.netlify.app/)
 
@@ -48,7 +48,7 @@
 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tridiprong&show_icons=true&locale=en&layout=compact" alt="tridiprong" /></p>
 <p><img align="right"  width="450" src="https://github-readme-stats.vercel.app/api?username=tridiprong&show_icons=true&locale=en" alt="tridiprong" /></p><br>
-[![Tridip's github activity graph](https://activity-graph.herokuapp.com/graph?username=tridiprong)](https://github.com/tridiprong/github-readme-activity-graph)
+<p><img src="https://github.com/tridiprong/github-readme-activity-graph.app/api?username=tridiprong&show_icons=true&locale=en" alt="Tridip Rong" /><p>
 <br>
   <br>
   &nbsp;
