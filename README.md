@@ -48,7 +48,6 @@
 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tridiprong&show_icons=true&locale=en&layout=compact" alt="tridiprong" /></p>
 <p><img align="right"  width="450" src="https://github-readme-stats.vercel.app/api?username=tridiprong&show_icons=true&locale=en" alt="tridiprong" /></p><br>
-<p><img src="https://github.com/tridiprong/github-readme-activity-graph.app/api?username=tridiprong&show_icons=true&locale=en" alt="Tridip Rong" /><p>
 <br>
   <br>
   &nbsp;
