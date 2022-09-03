@@ -46,18 +46,10 @@
 
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
-<p> &nbsp;<img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tridiprong&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="tridiprong" /></p><br>
+<p> <img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tridiprong&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="tridiprong" /></p>
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api?username=tridiprong&show_icons=true&theme=radical" alt="tridiprong" /></p>
 
-<br>
 
-
-  <br>
-  <br>
-  &nbsp;
-  <br>
-  <br>
-  
 <h2>&nbsp; Some Programming Humor for you <img align ='left' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
