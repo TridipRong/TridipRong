@@ -44,13 +44,10 @@
 <a href = 'https://tridip-rong-portfolio.netlify.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 
 
-
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
-<p> <img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tridiprong&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="tridiprong" /></p>
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api?username=tridiprong&show_icons=true&theme=radical" alt="tridiprong" /></p>
-| Github Stats | Current Strek  |
+  
+  | Github Stats | Current Strek  |
 | --- | --- |
-| ![Ranajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranajitdasgithub&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranajitdasgithub&theme=tokyonight)](https://git.io/streak-stats) |
+| ![Ranajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=tridiprong&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tridiprong&theme=tokyonight)](https://git.io/streak-stats) |
 
 
 <!-- Theme color -->
@@ -59,7 +56,7 @@
 
 | Top Languages | Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ranajitdasgithub&layout=demo&langs_count=10&hide_border=false&role=OWNER,COLLABORATOR&theme=tokyonight" alt="Ranajit's Language stats" /> | [![Ranajit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ranajitdasgithub&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/ranajitdasgithub/github-readme-activity-graph) |
+| <img height=200 width=350 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=tridiprong&layout=demo&langs_count=10&hide_border=false&role=OWNER,COLLABORATOR&theme=cobalt" alt="Ranajit's Language stats" /> | [![Ranajit's github activity graph](https://activity-graph.herokuapp.com/graph?username=tridiprong&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/tridiprong/github-readme-activity-graph) |
 
 
 <h2>&nbsp; Some Programming Humor for you <img align ='left' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
