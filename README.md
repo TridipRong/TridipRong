@@ -3,8 +3,9 @@
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<div aling="left"><img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 300px height='150px' >
+ </div>
 <p align='center'>
-
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=TridipRong.TridipRong.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
@@ -12,9 +13,9 @@
 <div size='60px'><h2> Hi! My name is Tridip Rong. Thank You for taking the time to view my GitHub Profile :smile:</h2> 
 </div>
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<h2> About Me </h2>
 
-<img align="right" alt="Coding" width="60%" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="30%" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🔭 I Worked on [Clone Of FabBag Wesite](https://fabbag-clone-u2.netlify.app/)
 
@@ -23,31 +24,32 @@
 - 🌱 I’m currently learning SpringBoot & MySql 
 
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
+<h2 aling="left"> Languages and Tools:   <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"></h2>
+<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=javascript&sort= > <img width="65" height="40"' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=c&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=java&sort= > <img width="65" height="40"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=spring&sort= > <img wwidth="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
+<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=mysql&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=html&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=css&sort= > <img width="65" height="40"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=github&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
+<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=git&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=aws&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
+<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=bootstrap&sort= > <imgwidth="65" height="40"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+<h2 aling="left"> Connect with me  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"> </h2>
 <a href = 'https://www.linkedin.com/in/TridipRong'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
 <a href = 'https://www.github.com/TridipRong'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <a href = 'https://www.twitter.com/https://twitter.com/rong_tridip'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://tridip-rong-portfolio.netlify.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 
 
-  
+   <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
+
   | Github Stats | Current Strek  |
 | --- | --- |
-| ![Ranajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=tridiprong&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tridiprong&theme=tokyonight)](https://git.io/streak-stats) |
+| ![Tridip's GitHub stats](https://github-readme-stats.vercel.app/api?username=tridiprong&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tridiprong&theme=tokyonight)](https://git.io/streak-stats) |
 
 
 <!-- Theme color -->
@@ -56,12 +58,14 @@
 
 | Top Languages | Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=tridiprong&layout=demo&langs_count=10&hide_border=false&role=OWNER,COLLABORATOR&theme=cobalt" alt="Ranajit's Language stats" /> | [![Ranajit's github activity graph](https://activity-graph.herokuapp.com/graph?username=tridiprong&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/tridiprong/github-readme-activity-graph) |
+| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=tridiprong&show_icons=true&theme=cobalt" alt="Tridip's Language stats" /> | [![Tridip's github activity graph](https://activity-graph.herokuapp.com/graph?username=tridiprong&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/tridiprong/github-readme-activity-graph) |
 
-
+<div aling="left">
+  
 <h2>&nbsp; Some Programming Humor for you <img align ='left' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+  </div>
 
 
 <br>
