@@ -3,25 +3,26 @@
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<div aling="left"><img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 300px height='150px' >
- </div>
+<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = "300px" height="150px" aling="center"  >
+ 
 <p align='center'>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=TridipRong.TridipRong.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 </p>
 <div size='60px'><h2> Hi! My name is Tridip Rong. Thank You for taking the time to view my GitHub Profile :smile:</h2> 
+
 </div>
 
 <h2> About Me </h2>
+<p> An enthusiastic, self-motivated and passionate  back-end web 🕸️ developer with a specialization in JAVA. Problem solving mindset and the ability to perform well in collaboration.
+</p>
+<img align="right" alt="Coding" width="200" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-<img align="right" alt="Coding" width="30%" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
-
-- 🔭 I Worked on [Clone Of FabBag Wesite](https://fabbag-clone-u2.netlify.app/)
-
-- 🤝 I Worked on [Clone of BangGood Website](https://fancy-starburst-42d040.netlify.app/)
-
-- 🌱 I’m currently learning SpringBoot & MySql 
+- 🌐 Checkout my <a href="https://tridip-rong-portfolio.netlify.app/">Portfolio</a>
+- 📮 Checkout my <a href="https://drive.google.com/file/d/1_sFe6XEFqtz9eqrwZFJZh2GCzgiSXtRU/view">Resume</a>
+- 💌 How to reach me **rtridip2@gmail.com**
+- 📖 I’m currently learning SpringBoot
 
 
 <h2 aling="left"> Languages and Tools:   <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"></h2>
