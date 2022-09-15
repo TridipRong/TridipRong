@@ -20,7 +20,7 @@
 <img align="right" alt="Coding" width="200" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🌐 Checkout my <a href="https://tridip-rong-portfolio.netlify.app/">Portfolio</a>
-- 📮 Checkout my <a href="https://drive.google.com/file/d/1_sFe6XEFqtz9eqrwZFJZh2GCzgiSXtRU/view">Resume</a>
+- 📮 Checkout my <a href="https://drive.google.com/file/d/10lxA17GoED_pAOCwvu6YxyUdUDzWch27/view?usp=sharing">Resume</a>
 - 💌 How to reach me **rtridip2@gmail.com**
 - 📖 I’m currently learning SpringBoot
 
