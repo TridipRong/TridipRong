@@ -21,7 +21,7 @@
 
 - 🌐 Checkout my <a href="https://tridip-rong-portfolio.netlify.app/">Portfolio</a>
 - 📮 Checkout my <a href="https://drive.google.com/file/d/10lxA17GoED_pAOCwvu6YxyUdUDzWch27/view?usp=sharing">Resume</a>
-- 💌 How to reach me **rtridip2@gmail.com**
+- 💌 How to reach me [Email](mailto:rtridip2@gmail.com) :)
 - 📖 I’m currently learning SpringBoot
 
 
@@ -59,7 +59,7 @@
 
 | Top Languages | Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=tridiprong&show_icons=true&theme=cobalt" alt="Tridip's Language stats" /> | [![Tridip's github activity graph](https://activity-graph.herokuapp.com/graph?username=tridiprong&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/tridiprong/github-readme-activity-graph) |
+| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=tridiprong&show_icons=true&theme=cobalt" alt="Tridip's Language stats" /> |  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=tridiprong&theme=react-dark&hide_border=true&area=true" height="10%" width="100%"/> |
 
 <div aling="left">
   
