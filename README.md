@@ -7,8 +7,7 @@
  
 <p align='center'>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=TridipRong.TridipRong.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
-
+<p> <img height="20px" src="https://komarev.com/ghpvc/?username=TridipRong&label=Profile%20views&color=0e75b6&style=flat" alt="TridipRong" /> </p>
 </p>
 <div size='60px'><h2> Hi! My name is Tridip Rong. Thank You for taking the time to view my GitHub Profile :smile:</h2> 
 
