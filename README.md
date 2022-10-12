@@ -23,29 +23,61 @@
 - 💌 How to reach me [Email](mailto:rtridip2@gmail.com) :)
 - 📖 I’m currently learning SpringBoot
 
+<!----------------------------------- Tech Stack Section ------------------------------------>
 
-<h2 aling="left"> Languages and Tools:   <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"></h2>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=javascript&sort= > <img width="65" height="40"' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=c&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=java&sort= > <img width="65" height="40"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=spring&sort= > <img wwidth="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=mysql&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=html&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=css&sort= > <img width="65" height="40"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=github&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=git&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=aws&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
-<a href= https://github.com/TridipRong?tab=repositories&q=&type=&language=bootstrap&sort= > <imgwidth="65" height="40"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
+### <h2>💻 Tech Stack & Languages 💻<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"></h2>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=pink)<br><br>
 
 
-<h2 aling="left"> Connect with me  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"> </h2>
-<a href = 'https://www.linkedin.com/in/TridipRong'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
-<a href = 'https://www.github.com/TridipRong'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<a href = 'https://www.twitter.com/https://twitter.com/rong_tridip'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+### <h2>🚀 Libraries & Frameworks 🚀</h2>
+<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&logo=spring&color=852100&label=" alt="SPRING"/></a>
+<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&logo=springboot&color=00d09c&label=" alt="SpringBoot" /></a>
+<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&logo=hibernate&color=000030&label=" alt="Hibernate"/></a>
+<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&logo=JDBC&color=400030&label=" alt="JDBC"/></a><br><br>
+
+### <h2>💻 Databases 💻</h2>
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)<br><br>
+
+
+
+ 
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+<h2>📱 Let's Connect 📱</h2>
+
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/tridip-rong-4b11481b2/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/tridip-rong-4b11481b2/" />
+    </a>
+    <a href="https://tridip-rong-portfolio.netlify.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://tridip-rong-portfolio.netlify.app/" />
+    </a>
+    <a title="rtridip2@gmail.com" href="mailto:rtridip2@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="getsaurabhpagrut@gmail.com" />
+    </a>
+    </a>
+    <a href="https://leetcode.com/TridipRong/">
+        <img align="center" src="https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="https://leetcode.com/TridipRong/" />
+    </a>
+    <a href="https://www.hackerrank.com/tridiprong">
+        <img align="center" src="https://img.shields.io/badge/hackerrank-white?style=for-the-badge&logo=hackerrank&logoColor=darkgreen" alt="https://www.hackerrank.com/tridiprong" />
+    </a>
+    
+</p>
+
+<br><br>
 
 
 
    <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
+   <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=TridipRong&theme=merko&column=7&margin-w=15&margin-h=50" alt="TridipRong" /></p>
 
   | Github Stats | Current Strek  |
 | --- | --- |
