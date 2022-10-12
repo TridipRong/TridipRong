@@ -2,21 +2,14 @@
 <img width="100%" height = "290px" src="https://raw.githubusercontent.com/TridipRong/TridipRong/main/image/Black%20and%20White%20Space%20Themed%20Simple%20and%20Cool%20Desktop%20Wallpaper.gif" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = "300px" height="150px" aling="center"  >
+<p  align="center"><img width = "300px" height="150px" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif"  ></p>
+<p  align="center"> <img height="20px" src="https://komarev.com/ghpvc/?username=TridipRong&label=Profile%20views&color=0e75b6&style=flat" alt="TridipRong" /> </p>
+<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>  I'm Tridip Rong  👦</h1>
  
-<p align='center'>
 
-<p> <img height="20px" src="https://komarev.com/ghpvc/?username=TridipRong&label=Profile%20views&color=0e75b6&style=flat" alt="TridipRong" /> </p>
-</p>
-<div size='60px'><h2> Hi! My name is Tridip Rong. Thank You for taking the time to view my GitHub Profile :smile:</h2> 
-
-</div>
-
-<h2> About Me </h2>
 <p> An enthusiastic, self-motivated and passionate  back-end web 🕸️ developer with a specialization in JAVA. Problem solving mindset and the ability to perform well in collaboration.
 </p>
-<img align="right" alt="Coding" width="200" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="32%" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🌐 Checkout my <a href="https://tridip-rong-portfolio.netlify.app/">Portfolio</a>
 - 📮 Checkout my <a href="https://drive.google.com/file/d/10lxA17GoED_pAOCwvu6YxyUdUDzWch27/view?usp=sharing">Resume</a>
