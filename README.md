@@ -66,8 +66,10 @@
 </p>
 
 <br><br>
+<h1>Hacktoberfest 2022</h1>
 
-
+[![@tridiprong's Holopin board](https://holopin.me/tridiprong)](https://holopin.io/@tridiprong)
+<br><br>
 
    <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
    <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=TridipRong&theme=merko&column=7&margin-w=15&margin-h=50" alt="TridipRong" /></p>
