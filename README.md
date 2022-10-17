@@ -25,7 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=pink)<br><br>
+<br><br>
 
 
 ### <h2>🚀 Libraries & Frameworks 🚀</h2>
