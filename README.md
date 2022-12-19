@@ -85,7 +85,7 @@
 
 | Top Languages | Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=tridiprong&show_icons=true&theme=cobalt" alt="Tridip's Language stats" /> |  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=tridiprong&theme=react-dark&hide_border=true&area=true" height="10%" width="100%"/> |
+| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=tridiprong&show_icons=true&theme=cobalt" alt="Tridip's Language stats" /> |  <img align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=tridiprong&theme=tokyo-night&hide_border=true&area=true" height="10%" width="100%"/> |
 
 <div aling="left">
   
