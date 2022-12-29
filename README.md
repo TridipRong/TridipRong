@@ -76,7 +76,7 @@
 
   | Github Stats | Current Strek  |
 | --- | --- |
-| ![Tridip's GitHub stats](https://github-readme-stats.vercel.app/api?username=tridiprong&show_icons=true&theme=radical) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tridiprong&theme=synthwave)](https://git.io/streak-stats) |
+| ![Tridip's GitHub stats](https://github-readme-stats.vercel.app/api?username=tridiprong&show_icons=true&theme=radical) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tridiprong&theme=gruvbox)](https://git.io/streak-stats) |
 
 
 <!-- Theme color -->
