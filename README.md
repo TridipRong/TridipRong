@@ -87,6 +87,13 @@
 | :--- | --- |
 | <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=tridiprong&show_icons=true&theme=cobalt" alt="Tridip's Language stats" /> |  <img align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=tridiprong&theme=synthwave&hide_border=true&area=true" height="10%" width="100%"/> |
 
+ <!-- <h2 align='center'>ℹ️ &nbsp;Github Info</h2> -->
+
+<div>
+  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
+  <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tridiprong&theme=github_dark" alt="tridiprong" align = "center"/></p>
+</div>
+
 <div aling="left">
   
 <h2>&nbsp; Some Programming Humor for you <img align ='left' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
