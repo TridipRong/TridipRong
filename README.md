@@ -11,10 +11,10 @@
 </p>
 <img align="right" alt="Coding" width="32%" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 🌐 Checkout my <a href="https://tridip-rong-portfolio.netlify.app/">Portfolio</a>
+- 🌐 Checkout my <a href="https://tridiprong.github.io/Tridip-Portfolio/">Portfolio</a>
 - 📮 Checkout my <a href="https://drive.google.com/file/d/10lxA17GoED_pAOCwvu6YxyUdUDzWch27/view?usp=sharing">Resume</a>
 - 💌 How to reach me [Email](mailto:rtridip2@gmail.com) :)
-- 📖 I’m currently learning SpringBoot
+
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
@@ -38,7 +38,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)<br><br>
 
 
-
+### <h2>🚀 Experience 🚀</h2>
+ - Done a internship for 2 monthes from "Masai School".
+   
  
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
