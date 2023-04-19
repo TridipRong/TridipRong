@@ -12,7 +12,7 @@
 <img align="right" alt="Coding" width="32%" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🌐 Checkout my <a href="https://tridiprong.github.io/Tridip-Portfolio/">Portfolio</a>
-- 📮 Checkout my <a href="https://drive.google.com/file/d/10lxA17GoED_pAOCwvu6YxyUdUDzWch27/view?usp=sharing">Resume</a>
+- 📮 Checkout my <a href="https://drive.google.com/file/d/12SdRFBoAcR-eiKdn7tq_-z2ymUZxJ_yV/view?usp=sharing">Resume</a>
 - 💌 How to reach me [Email](mailto:rtridip2@gmail.com) :)
 
 
