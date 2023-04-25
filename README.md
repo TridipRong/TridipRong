@@ -7,7 +7,7 @@
 <h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>  I'm Tridip Rong  👦</h1>
  
 
-<p> An enthusiastic, self-motivated and passionate  back-end web 🕸️ developer with a specialization in JAVA. Problem solving mindset and the ability to perform well in collaboration.
+<p>I am an enthusiastic Java Developer with a passion for learning and growing in the field of software development. I have recently completed my B.Tech in Computer Science and have also undertaken a web development course. Through these experiences, I have gained valuable skills and knowledge in developing web applications using Java and related technologies.
 </p>
 <img align="right" alt="Coding" width="32%" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
@@ -23,24 +23,35 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 <br><br>
-
-
 ### <h2>🚀 Libraries & Frameworks 🚀</h2>
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&logo=spring&color=852100&label=" alt="SPRING"/></a>
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&logo=springboot&color=00d09c&label=" alt="SpringBoot" /></a>
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&logo=hibernate&color=000030&label=" alt="Hibernate"/></a>
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&logo=JDBC&color=400030&label=" alt="JDBC"/></a><br><br>
+<a><img src="https://img.shields.io/badge/JavaDoc-007396?style=for-the-badge&logo=java&logoColor=white" alt="Skill" /></a>
+<a><img src="https://img.shields.io/badge/Mockito-DC382D?style=for-the-badge&logo=mockito&logoColor=white" alt="Skill" /></a>
+ <a><img src="https://img.shields.io/badge/JSON%20Web%20Token-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="Skill" /></a>
+<a><img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="Skill" /></a>
+<a><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Skill" /></a>
+ <a><img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Skill" /></a>
+ 
+### <h2>:bar_chart: Databases :bar_chart:</h2>
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)<br>
+### <h2>💻Tools 💻</h2>
+<a><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white" alt="Skill" /></a>
+<a><img src="https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Skill" /></a>
+<a><img src="https://img.shields.io/badge/TortoiseGit-FF1493?style=for-the-badge&logo=TortoiseGit&logoColor=white" alt="Skill" /></a>
+<a><img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
+<a><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<a><img src="https://img.shields.io/badge/Postman-f44d27?style=for-the-badge&logo=postman&logoColor=white" alt="Skill" /></a>
+<a><img src="https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=swagger&logoColor=white" alt="Skill" /></a>
 
-### <h2>💻 Databases 💻</h2>
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)<br><br>
-
-
-### <h2>🚀 Experience 🚀</h2>
- - Done a internship for 2 monthes from "Masai School".
-   
+### <h2>:cloud: Server & Deployment tool :cloud:</h2>
+<a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Skill" /></a>
+<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=AWS&logo=amazon&color=white&label=" alt=""></a>
+<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&logo=netlify&color=0077B5&label=" alt=""></a>
+<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&logo=github&color=181717&label=" alt=""></a>
  
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
