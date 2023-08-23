@@ -7,7 +7,7 @@
 <h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>  I'm Tridip Rong  👦</h1>
  
 
-<p>I am an enthusiastic Java Developer with a passion for learning and growing in the field of software development. I have recently completed my B.Tech in Computer Science and have also undertaken a web development course. Through these experiences, I have gained valuable skills and knowledge in developing web applications using Java and related technologies.
+<p>"Passionate Java Developer with a B.Tech in Computer Science. Currently a Software Developer at pipli.ai, specializing in crafting dynamic web applications using Java and allied technologies."
 </p>
 <img align="right" alt="Coding" width="32%" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
@@ -77,6 +77,10 @@
     </a>
     
 </p>
+<be>
+ <h2>💻 Experience 💻</h2>
+<p>Ex-Intern @<a href="https://www.linkedin.com/company/masai-labs/" target="_blank">Masai Labs</a>  --------------->  02-2023 - 04-2023 </p>
+<p>Software Developer @<a href="https://pipli.com/" target="_blank">Pipli.ai</a>  --------------->  08-2023 - Present </p>
 
 <br><br>
 <h1>Hacktoberfest 2022</h1>
