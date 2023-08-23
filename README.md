@@ -7,7 +7,7 @@
 <h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>  I'm Tridip Rong  👦</h1>
  
 
-<p>"Passionate Java Developer with a B.Tech in Computer Science. Currently a Software Developer at pipli.ai, specializing in crafting dynamic web applications using Java and allied technologies."
+<p>Passionate Java Developer with a B.Tech in Computer Science. Currently a Software Developer at pipli.ai, specializing in crafting dynamic web applications using Java and allied technologies.
 </p>
 <img align="right" alt="Coding" width="32%" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
