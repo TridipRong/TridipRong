@@ -34,10 +34,14 @@
  <a><img src="https://img.shields.io/badge/JSON%20Web%20Token-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="Skill" /></a>
 <a><img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="Skill" /></a>
 <a><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Skill" /></a>
+<a><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" /></a>
  <a><img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Skill" /></a>
  
-### <h2>:bar_chart: Databases :bar_chart:</h2>
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)<br>
+### <h2>:bar_chart: Databases & In-Memory Databases :bar_chart:</h2>
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<br>
 ### <h2>💻Tools 💻</h2>
 <a><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white" alt="Skill" /></a>
 <a><img src="https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Skill" /></a>
@@ -51,7 +55,13 @@
 <a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Skill" /></a>
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=AWS&logo=amazon&color=white&label=" alt=""></a>
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&logo=netlify&color=0077B5&label=" alt=""></a>
-<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&logo=github&color=181717&label=" alt=""></a>
+<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&logo=github&color=181717&label=" alt=""></a>
+<a><img src="https://img.shields.io/badge/Google%20Cloud%20Pub/Sub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Pub/Sub" /></a>
+<a><img src="https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Storage" /></a>
+<a><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" /></a>
+<a><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+<a><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
+
  
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
